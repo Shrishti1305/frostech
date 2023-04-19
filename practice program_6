@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class program3 {
+    public static void main(String[]args){
+Scanner s = new Scanner (System.in);
+ char c ='"';
+String name = s.nextLine();
+
+System.out.println("hey" +c+ name +c+ "!");
+
+
+
+    }
+    
+}
