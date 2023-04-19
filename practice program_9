@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class program8 {
+    public static void main(String[]args){
+// to convert indian currency in usd//
+
+ Scanner s = new Scanner(System.in);
+ int indo = s.nextInt();
+ // input converted to output in usd //
+ int usd =  indo/80;
+ System.out.println("currency in usd " + usd);
+
+
+
+
+    }
+}
